@@ -18,4 +18,5 @@ int main () {
     cout << "Tinggi saya : " << tinggi << endl;
     cout << "Saya adalah tidak suka durian : " << durian << endl;
     return 0;
+    
 }
